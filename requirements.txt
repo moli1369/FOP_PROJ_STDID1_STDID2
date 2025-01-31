@@ -1,1 +1,1 @@
-pandas
+pip insyall pandas
