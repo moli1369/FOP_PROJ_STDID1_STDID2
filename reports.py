@@ -4,6 +4,7 @@ import pandas as pd
 def generate_class_list(course_id):
     courses = load_courses()
     grades = load_grades()
+    
     if course_id not in courses or course_id not in grades:
         return None
     
