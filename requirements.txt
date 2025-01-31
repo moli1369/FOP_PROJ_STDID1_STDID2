@@ -1,1 +1,2 @@
-pip insyall pandas
+pip install pandas
+pip install pandas as pd
