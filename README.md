@@ -11,3 +11,22 @@
 2. با استفاده از دستور زیر، نیازمندی‌های پروژه را نصب کنید:
    ```bash
    pip install -r requirements.txt
+   
+ ###############################
+ Projekt: Lernmanagementsystem (LMS)
+Dieses Projekt ist ein einfaches Lernmanagementsystem (LMS) mit den folgenden Funktionen:
+
+Benutzerregistrierung und Anmeldung (für Studierende und Dozenten)
+
+Erstellung und Verwaltung von Lehrveranstaltungen
+
+Erfassung von Studierendennoten
+
+Generierung verschiedener Berichte mit Pandas
+
+So führen Sie das Projekt aus:
+Laden Sie die Projektdateien herunter.
+
+Installieren Sie die erforderlichen Abhängigkeiten mit folgendem Befehl:
+
+pip install -r requirements.txt  
