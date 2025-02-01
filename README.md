@@ -12,9 +12,8 @@
    ```bash
    pip install -r requirements.txt
    
- ###############################
+-------------
 
- 
  Projekt: Lernmanagementsystem (LMS)
 Dieses Projekt ist ein einfaches Lernmanagementsystem (LMS) mit den folgenden Funktionen:
 
@@ -30,5 +29,6 @@ So führen Sie das Projekt aus:
 Laden Sie die Projektdateien herunter.
 
 Installieren Sie die erforderlichen Abhängigkeiten mit folgendem Befehl:
+ ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt  
