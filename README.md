@@ -13,6 +13,8 @@
    pip install -r requirements.txt
    
  ###############################
+
+ 
  Projekt: Lernmanagementsystem (LMS)
 Dieses Projekt ist ein einfaches Lernmanagementsystem (LMS) mit den folgenden Funktionen:
 
